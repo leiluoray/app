@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+        <calloutViewStyle
+            titleTextColor="#000000"
+            titleTextSize = "10"
+            titleTextStyle = "0"
+            titleTextTypeFace = "0"
+            backgroundColor="#ffffff"
+            backgroundAlpha="255"
+            frameColor="#000000"
+            flat="true"
+
+            anchor="5" />
+
+
+</LinearLayout>
